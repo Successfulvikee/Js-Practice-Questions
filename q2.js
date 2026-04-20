@@ -4,6 +4,3 @@ const multiply = (a, b) => {
 };
 
 console.log(multiply(6, 7));
-
-
-//Q3
